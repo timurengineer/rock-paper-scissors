@@ -1,2 +1,3 @@
 ﻿# rock-paper-scissors
-rock-paper-scissors-timur.netlify.app
+https://rock-paper-scissors-timur.netlify.app/
+
